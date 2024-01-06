@@ -4,5 +4,5 @@
 
 ### Inline Code Span
 </br>
-    ```md [link](/uri "title") ```
+    ` [link](/uri "title") `{:.markdown}
 
