@@ -1,9 +1,9 @@
 # Github Flavor Markdown
 
-[link](https://github.github.com/gfm/ "Github Docs f/ HTML")
+[Github Docs f/ HTML](https://github.github.com/gfm/ "GFM")
 
 + Inline Code Span
-'
+`
 [link](/uri "title")
-'
+`
 
