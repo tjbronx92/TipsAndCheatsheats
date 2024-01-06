@@ -8,9 +8,9 @@
 ```
 
 ### Inline Code Span
-    ` 
+    ``` 
 ```foo ``` 
-`
+```
 
 ### Inline Code Span
     ``` <
