@@ -8,11 +8,11 @@
 ```
 
 ### Block Code Span
-```markdown
+~~~markdown
 ```
 foo
 ```
-```
+~~~
 ### Inline Code Span
 ```markdown
 `foo`
