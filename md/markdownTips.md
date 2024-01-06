@@ -2,9 +2,8 @@
 
 - [Github Markdown Docs f/ HTML](https://github.github.com/gfm/ "GFM")
 
-### Links
-    
-```markdown
+### Links 
+    ```markdown
 [link](/uri "title")
 ```
 
