@@ -4,5 +4,5 @@
 
 ### Inline Code Span
 </br>
-    ` [link](/uri "title") `
+    ```md [link](/uri "title") ```
 
