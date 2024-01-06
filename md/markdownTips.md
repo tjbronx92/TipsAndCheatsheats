@@ -8,7 +8,7 @@
 ```
 
 ### Inline Code Span
-``` 
+```markdown
 ```foo ``` 
 ```
 
