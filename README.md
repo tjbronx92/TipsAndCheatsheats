@@ -1,7 +1,7 @@
 # Coding Tips & Tricks
 
 <div style="text-align: center;">
-    <img width="100%" src="/img/prof.gif">
+    <img width="75%" src="/img/prof.gif">
 </div>
 
 ## Py
