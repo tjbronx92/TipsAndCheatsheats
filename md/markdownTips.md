@@ -9,10 +9,10 @@
 
 ### Inline Code Span
 ```markdown
-```foo ``` 
+```foo``` 
 ```
 
-### Inline Code Span
+### Images
 ```markdown
 ![foo](/url "title")
 ```
