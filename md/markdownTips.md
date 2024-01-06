@@ -1,6 +1,6 @@
 # Github Flavored Markdown
 
-[Github Docs f/ HTML](https://github.github.com/gfm/ "GFM")
+- [Github Markdown Docs f/ HTML](https://github.github.com/gfm/ "GFM")
 
 ### Links
 ```markdown
@@ -9,7 +9,7 @@
 
 ### Inline Code Span
 ```markdown
-```foo``` 
+```foo```
 ```
 
 ### Images
