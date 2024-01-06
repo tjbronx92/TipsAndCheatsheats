@@ -1,8 +1,8 @@
 # Coding Tips & Tricks
 
-<div style="text-align: center;">
-    <img width="75%" src="/img/prof.gif">
-</div>
+   ![image](/img/prof.gif "Fink")
+
+
 
 ## Py
 - Tips to improve Python's performance and readability
