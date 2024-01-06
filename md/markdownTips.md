@@ -6,8 +6,6 @@
 ```markdown
 [link](/uri "title")
 ```
-
-### Fenced Code Block
 - [Add Syntax Highlighting](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks#syntax-highlighting)
     - [Supported Languages](https://github.com/github-linguist/linguist/blob/master/lib/linguist/languages.yml)
 ~~~markdown
@@ -23,5 +21,5 @@ foo
 
 ### Images
 ```markdown
-![text](/url "title")
+![image](/url "title")
 ```
