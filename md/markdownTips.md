@@ -8,11 +8,14 @@
 ```
 
 ### Block Code Span
+- [Add Syntax Highlighting](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks#syntax-highlighting)
+ - [LANGUAGES](https://github.com/github-linguist/linguist/blob/master/lib/linguist/languages.yml)
 ~~~markdown
 ```
 foo
 ```
 ~~~
+
 ### Inline Code Span
 ```markdown
 `foo`
