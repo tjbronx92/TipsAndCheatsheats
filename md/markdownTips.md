@@ -3,7 +3,7 @@
 [Github Docs f/ HTML](https://github.github.com/gfm/ "GFM")
 
 ### Links
-    ```markdown
+```markdown
 [link](/uri "title")
 ```
 
@@ -13,6 +13,6 @@
 ```
 
 ### Inline Code Span
-    ```markdown
+```markdown
 ![foo](/url "title")
 ```
