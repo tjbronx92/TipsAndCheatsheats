@@ -7,12 +7,19 @@
 [link](/uri "title")
 ```
 
+### Block Code Span
+```markdown
+```
+foo
+```
+```
 ### Inline Code Span
 ```markdown
-```foo```
+`foo`
 ```
+
 
 ### Images
 ```markdown
-![foo](/url "title")
+![text](/url "title")
 ```
