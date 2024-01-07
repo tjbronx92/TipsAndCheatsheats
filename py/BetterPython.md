@@ -1,6 +1,8 @@
 # Writing Better Python
 
-### Tips and tricks to improve Python's performance and readability. 
+![image](/img/python.png "ArchPython")
+
+## Tips and tricks to improve Python's performance and readability. 
 
 ### Looping over a range of numbers 
 ```python
