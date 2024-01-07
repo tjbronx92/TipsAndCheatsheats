@@ -1,5 +1,7 @@
 # Github Flavored Markdown
 
+![image](/img/GitOctoCat.png "GitHub")
+
 - [Github Markdown Docs f/ HTML](https://github.github.com/gfm/ "GFM")
 
 ### Links 

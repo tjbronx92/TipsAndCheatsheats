@@ -13,5 +13,5 @@ MAX = 5
 for square in fetch_squares(MAX):
     print(square)
 ```
-- The entire *squares* list must be populated before for loop can print *square* variable. The larger the list, the more memory is hogged.
+- The entire *squares* list must be populated before FOR loop can begin to output *square* variable. The larger the list, the more memory is hogged.
  
