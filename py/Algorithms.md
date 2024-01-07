@@ -1,5 +1,7 @@
 # Algorithms
 
+![image](/img/charlie-day.gif "Connect The Dots")
+
 Notes on writing more efficient algorithms.
 
 Selection Sort
