@@ -1,6 +1,9 @@
 # Writing Better Python
 
-![image](/img/python.png "ArchPython")
+<div style="text-align: center;">
+    <img width="100%" src="/img/python.png">
+</div>
+
 
 ## Tips and tricks to improve Python's performance and readability. 
 
