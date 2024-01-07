@@ -13,7 +13,7 @@ colors = ['black', 'pink', 'yellow', 'orange']
 for color in colors:
     print(color)
 ```
----
+
 ### Looping Backwards
 ```python
 colors = ['black', 'pink', 'yellow', 'orange']
