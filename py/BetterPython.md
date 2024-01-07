@@ -1,7 +1,7 @@
 # Writing Better Python
 
 <div style="text-align: center;">
-    <img width="100%" src="/img/python.png">
+    <img width="50%" src="/img/python.png">
 </div>
 
 
