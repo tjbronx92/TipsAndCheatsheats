@@ -5,7 +5,7 @@
 ## Tips and tricks to improve Python's performance and readability. 
 
 ### Looping over a collection
-1. A list is an iterable
+1. Lists, tuples, sets, dictionaries, and strings are iterables
 2. The FOR loop passes iterables to `iter()` automatically
 ```python
 colors = ['black', 'pink', 'yellow', 'orange']
