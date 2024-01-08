@@ -6,6 +6,8 @@
 - Tips to improve Python's performance and readability
 
     [BetterPython.md](/py/BetterPython.md)
+    
+    [Algorithms.md](py/Algorithms.md)
 
 <br>
 

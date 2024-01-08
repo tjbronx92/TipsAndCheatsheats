@@ -35,7 +35,7 @@ MAX = 15
 for square in gen_sq(MAX):
     print(square)
 ```
-###### [Scalling w/ Genrators Examples](/example_code/py/Scalling_Generators.md)
+###### [Scalling w/ Genrators Examples](/example_code/py/BetterPython/Scalling_Generators.md)
 ---
 References:
 
