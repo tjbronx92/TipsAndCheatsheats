@@ -5,9 +5,9 @@
 - The larger the list, the more memory is hogged.
 
 ```python
-def fetch_squares(max_root):
+def fetch_squares(max_num):
     squares = []
-    for n in range(max_root):
+    for n in range(max_num):
         squares.append(n**2)
     return squares
 
@@ -19,24 +19,14 @@ for square in fetch_squares(MAX):
 
 ### Better Way ✅ 
 ```python
-def findSmallest(arr):
-    smallest = arr[0]
-    smallest_index = 0
-    for i in range(1, len(arr)):
-        if arr[i] < smallest:
-            smallest = arr[i]
-            smallest_index = i
-    return smallest_index
+def gen_sq(max_num):
+    for num in range(max_num):
+        yield num ** 2
 
-def selectionSort(arr):
-    newArr = []
-    for i in range(len(arr)):
-        smallest = findSmallest(arr)
-        newArr.append(arr.pop(smallest))
-    
-    print(newArr)
+MAX = 15
 
-selectionSort([8, 5, 1, 777, 11])
+for square in gen_sq(MAX):
+    print(square)
 ```
 
  
