@@ -4,7 +4,7 @@
 
 Notes on working with iterables.
 
-### Check if an object is iterable by passing object to iter().
+- Check if an object is an iterable by passing the object to `iter()`.
 
 Tuple: `tuple_iterator object`
 ```python
