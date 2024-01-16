@@ -10,7 +10,7 @@ icmp[0:2] == 0x0301
 ```
 
 Local Host src & dst Traffic:
-- Useful for NICs with multiple IPs or rouge DHCP servers
+- Useful for NICs with multiple IPs or network with rouge DHCP servers
 ```
 ether host 00:00:00:00:00:00
 ```
