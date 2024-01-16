@@ -31,3 +31,20 @@ tcp[13] & 32 == 32  #TCP URG flag set
 
 tcp[13] == 18  #TCP SYN-ACK flag set
 ```
+
+TCPdump Protocol Qualifiers:
+```
+- ether (Ethernet)
+- wlan (Wireless Lan)
+- ip (Internet Protocol v4)
+- ip6 (Internet Protocol v6)
+- arp (Address Resolution Protocol)
+- rarp (Reverse - ARP)
+- tcp (Transmission Control Protocol)
+- udp (User Datagram Protocol)
+- icmp (Internet Control Message Protocol)
+```
+
+---
+Reference:
+<sup>1</sup> [Using tcpdump: Options, Filters and Examples](https://upskilld.com/learn/using-tcpdump-options-filters-and-examples/)
