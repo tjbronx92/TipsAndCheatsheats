@@ -2,14 +2,14 @@
 
 ![image](/img/ghost_in_the_shell.png)
 
-### Protocol Field Filters:
+#### Protocol Field Filters:
 
 ICMP Destination/Host Unreachable
 ```
 icmp[0:2] == 0x0301
 ```
 
-Local Host src & dst Traffic:
+#### Local Host src & dst Traffic:
 - Useful for NICs with multiple IPs or network with rouge DHCP servers
 ```
 ether host 00:00:00:00:00:00
@@ -31,3 +31,20 @@ tcp[13] & 32 == 32  #TCP URG flag set
 
 tcp[13] == 18  #TCP SYN-ACK flag set
 ```
+
+#### TCPdump Protocol Qualifiers:
+```
+- ether (Ethernet)
+- wlan (Wireless Lan)
+- ip (Internet Protocol v4)
+- ip6 (Internet Protocol v6)
+- arp (Address Resolution Protocol)
+- rarp (Reverse - ARP)
+- tcp (Transmission Control Protocol)
+- udp (User Datagram Protocol)
+- icmp (Internet Control Message Protocol)
+```
+
+---
+Reference:  
+<sup>1</sup> [Using tcpdump: Options, Filters and Examples](https://upskilld.com/learn/using-tcpdump-options-filters-and-examples/)
