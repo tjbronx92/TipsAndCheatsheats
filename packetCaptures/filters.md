@@ -9,6 +9,11 @@ ICMP Destination/Host Unreachable
 icmp[0:2] == 0x0301
 ```
 
+ToS/QoS Filters
+```
+tcpdump -ni eth0 ip[1] == 184 #0xB8
+```
+
 #### Local Host src & dst Traffic:
 - Useful for NICs with multiple IPs or network with rouge DHCP servers
 ```
