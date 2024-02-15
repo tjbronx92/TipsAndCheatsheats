@@ -51,6 +51,12 @@ tcp[13] == 18  #TCP SYN-ACK flag set
 - icmp (Internet Control Message Protocol)
 ```
 
+#### Filters To TSHOOT Slow Internet:
+```
+tcp.analysis.retransmission #RTO packets
+tcp.analysis.fast_retransmission
+```
+
 ---
 Reference:  
 <sup>1</sup> [Using tcpdump: Options, Filters and Examples](https://upskilld.com/learn/using-tcpdump-options-filters-and-examples/)
