@@ -1,6 +1,6 @@
 # Algorithms
 
-![image](/img/charlie-day.gif "Connect The Dots")
+![image](/img/beans.gif "Which one")
 
 Notes on writing parsing different file types with py.
 
