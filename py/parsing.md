@@ -2,7 +2,7 @@
 
 ![image](/img/beans.gif "Which one")
 
-Notes on writing parsing different file types with py.
+Notes on parsing different file types with py.
 
 JSON
 ```python
