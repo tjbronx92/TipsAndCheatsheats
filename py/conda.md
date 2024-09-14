@@ -20,6 +20,11 @@ conda create -n [ENV_NAME] python=3.10 -y
 conda activate [ENV_NAME]
 ```
 
+### Deactivate venv
+```bash
+conda deactivate
+```
+
 ### List venvs
 ```bash
 conda env list
