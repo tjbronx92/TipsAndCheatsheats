@@ -5,8 +5,7 @@
 
 ## Conda Refresher 
 
-### Create new venv
-Update conda base
+### Update conda base
 ```bash
 conda update -n base conda -y
 ```
