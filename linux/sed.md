@@ -7,8 +7,8 @@ sed "1,3d" [input_file]
 ```
 
 Perform Consecutive Substitutions:
+- add the script to the commands to be executed
 > -e script, --expression=script
-> add add the script to the commands to be executed
 
 -MAN Pages
 ```bash
