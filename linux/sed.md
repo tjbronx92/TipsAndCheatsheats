@@ -10,7 +10,7 @@ Perform Consecutive Substitutions:
 > -e script, --expression=script
 >  add the script to the commands to be executed
 
-- MAN Pages
+-MAN Pages
 ```bash
 echo catdog | sed -e "s/c/C/" -e "s/d/D"
 ```
