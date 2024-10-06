@@ -8,7 +8,9 @@ sed "1,3d" [input_file]
 
 Perform Consecutive Substitutions:
 > -e script, --expression=script
-> \t add the script to the commands to be executed
+>  add the script to the commands to be executed
+
+- MAN Pages
 ```bash
 echo catdog | sed -e "s/c/C/" -e "s/d/D"
 ```
