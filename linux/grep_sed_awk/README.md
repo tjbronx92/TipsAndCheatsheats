@@ -4,4 +4,4 @@
 
 - grep
 - sed
-- awk
+- [/grep_sed_awk/AWK.md](/uri "awk")
