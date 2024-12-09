@@ -3,7 +3,7 @@
 ### Built-In Variables
 
 | Variable      | TBD                  |
-| ------------- | -------------------- |
+| :---:         |     :---:      |
 | FS   (" ")    | field seperator      |
 | RS   ("\n")   | record seperator     |
 | IFS  ("\n")   | delimeter            |
